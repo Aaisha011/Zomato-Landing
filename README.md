@@ -1,4 +1,3 @@
-#This is my Zoamto Landing page
+# This is my Zoamto Landing page
 
-#added succesfully
-file is updated
+# added succesfully file is updated
